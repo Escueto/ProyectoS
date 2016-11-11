@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola soy fabian, modifícalo
+=======
+Hola soy fabian pegate un tiro.
+>>>>>>> 8a5621e7122b87909717b668c4dbcaa2b5ec9381
